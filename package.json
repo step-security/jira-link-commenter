@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/step-security/jira-link-commenter#readme",
   "dependencies": {
-    "@actions/core": "^2.0.0",
+    "@actions/core": "^3.0.1",
     "@actions/github": "^8.0.0",
     "axios": "^1.18.0"
   },
